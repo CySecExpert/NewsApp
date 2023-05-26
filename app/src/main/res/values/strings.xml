@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsAppRTR</string>
+    <string name="closeDrawer">Close Drawer</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="drawerOpen">Open Drawer</string>
+    <string name="drawerClose">Close Drawer</string>
+</resources>
